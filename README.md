@@ -1,11 +1,14 @@
 #################################################################################
+
 AGR Full Python Programming Tutorials@
 Welcome to the repository for all my full-length Python programming tutorial videos! 
 This is the place where you can find all the code explained and used in my comprehensive Python tutorials on YouTube. 
 Whether you're a beginner looking to get started or an experienced developer aiming to refine your skills, these resources are designed to help you succeed in your Python journey.
 
 YouTube Playlist
+
 Check out the full playlist here: 
+
 https://www.youtube.com/watch?v=1P_E5gxiGeE&list=PLu_clEuWbMiqojPrX9b8OfNx_B2ngyhXF
 
 #################################################################################
@@ -27,11 +30,9 @@ Real-World Projects:
 Practical applications to reinforce learning.
 
 #################################################################################
-Getting Started
-Clone the Repository:
 
+Getting Started - Clone the Repository:
 
-#################################################################################
 Bash
 git clone https://github.com/anilgoud345/PYTHON_PROGRAMS.git
 
