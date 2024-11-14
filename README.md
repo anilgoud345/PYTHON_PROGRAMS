@@ -7,6 +7,7 @@ Whether you're a beginner looking to get started or an experienced developer aim
 YouTube Playlist
 Check out the full playlist here: 
 https://www.youtube.com/watch?v=1P_E5gxiGeE&list=PLu_clEuWbMiqojPrX9b8OfNx_B2ngyhXF
+
 #################################################################################
 
 
@@ -35,6 +36,7 @@ Bash
 git clone https://github.com/anilgoud345/PYTHON_PROGRAMS.git
 
 cd PYTHON_PROGRAMS
+
 #################################################################################
 
 Follow Along with the Videos: Each folder corresponds to a specific video in the playlist. Open the respective folder to find the code used in that video.
